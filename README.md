@@ -1,4 +1,4 @@
-# banana-speak
+# banana-talk
 Vanilla JS Project
 
 Overview
